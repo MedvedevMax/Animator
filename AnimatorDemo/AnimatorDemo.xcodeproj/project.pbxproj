@@ -76,7 +76,7 @@
 				E5B3E3961E475DF9004CE241 /* Animator+Animations.swift */,
 			);
 			name = Animator;
-			path = ../../../Animator;
+			path = ../../Animator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -317,6 +317,7 @@
 				E5B3E3931E475DC6004CE241 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -2,7 +2,7 @@
 `Animator` is flexible UIView animation builder with beautiful chaining syntax. It supports classic animations as well as awesome spring animations.
 
 ## Demo
-![Animator](readme-assets/animator-demo.gif)
+<img src="readme-assets/animator-demo.gif" width="237" height="413">
 
 It's that simple to achieve this:
 

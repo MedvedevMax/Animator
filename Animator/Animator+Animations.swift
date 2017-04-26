@@ -14,7 +14,7 @@ public extension Animator {
             .thenHide(view: view)
     }
     
-    public class func shake(view: UIView) -> Animator {
+    public class func dampingShake(view: UIView) -> Animator {
         return Animator()
             .firstlySetOffset(forView: view, x: 10.0, y: 0.0)
             .animateOffset(forView: view, x: 0.0, y: 0.0)

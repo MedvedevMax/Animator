@@ -1,6 +1,12 @@
 import UIKit
 
 final public class Animator {
+    public enum ShakeDirection {
+        case horizontal
+        case vertical
+        case rotation
+    }
+    
     public typealias SimpleAction = (() -> Void)
     
     public init() { }
